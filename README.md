@@ -26,7 +26,7 @@ _____________________________________________________
 
 # va 
 # heroku saytiga kiramiz 
-# kerakli app ga  kiramiz va Resourse ga kiramiz
+# herakli app ga  kiramiz va Resourse ga kiramiz
 # va osha yerdan botni ishga tushuramiz
 
 _____________________________________________________
